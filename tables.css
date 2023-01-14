@@ -1,0 +1,33 @@
+.tablework{
+    border: none;
+    background-color: lightgreen;
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    padding-right: 10px;
+    border-spacing: 20px;
+}
+.tablework th, td{
+    background-color: white;
+    text-align: center;
+}
+.tablework2{
+    border-collapse: 1px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: lightgray;
+}
+
+ul{
+    background-color: black;
+    margin-top:20px;
+}
+
+li{
+    color:white;
+    padding-bottom: 10px;
+}
