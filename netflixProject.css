@@ -1,0 +1,193 @@
+.line1{
+    text-align: center;
+    font-family: arial;
+}
+.arrow {
+    border: solid blue;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 5px;
+  }
+  
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+.line11{
+    background-color: rgb(197, 20, 20);
+    border-radius: 10px;
+    color:white;
+    padding: 5px 10px 5px 10px;
+    font-size: 12px;
+}
+.line12{
+    margin-right: 25px;
+    margin-left: 20px;
+}
+
+
+.line2{
+    background-image: url("GB-en-20230123-popsignuptwoweeks-perspective_alpha_website_medium.jpeg");
+    width: 100%;
+    height: 630px;
+}
+.line21{
+    margin: 30px 0px 0px 80px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.line222{
+    float: right;
+    margin: 30px 50px 0px 0px;
+    padding: 5px 10px 5px 10px;
+    background-color: red;
+    border:none;
+    border-radius: 5px;
+}
+.line222 a{
+    text-decoration: none;
+    color:white;
+}
+.line22{
+    color:white;
+    text-align: center;
+    margin-top: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.line23{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.line24{
+    font-size: 20px;
+}
+.line26{
+    padding: 20px 300px 20px 10px;
+    border: none;
+    color: rgb(212, 206, 206);
+}
+.line27{
+    padding: 14px 30px 19px 20px;
+    font-size: 20px;
+    background-color: rgb(225, 14, 14);
+    border: none;
+    margin-left: -4px;
+}
+.line27 a{
+    text-decoration: none;
+    color: white;
+}
+.line27:hover{
+    background-color: red;
+}
+.arro {
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 5px;
+  }
+.right1 {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }  
+hr{
+    border-top: 8px solid rgb(75, 71, 71);
+    margin-top: 0px;
+    margin-bottom: -21px;
+}
+aside{
+    display: relative;
+    background-color: black;
+    overflow: hidden;
+    margin-top: 20px;
+  
+
+    
+}
+.line31{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    float: left;
+    padding-left: 180px;
+    padding-right: 100px;
+    width:400px;
+    padding-top: 50px;
+    padding-bottom:0px;
+
+
+}
+.line32{
+    position: relative;
+    float: left;
+    padding-top: 0px;
+    padding-left: 200px;
+}
+
+.line32 img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 320px;
+    height: 300px;
+    object-fit: cover;
+    padding-left: 200px;
+}
+section{
+    background-color: black;
+    overflow: hidden;
+    margin-top: 20px;
+    padding-bottom: 100px;
+}
+.line33{
+    color:white;
+    float:right;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 550px;
+    padding-left: 0px;
+    padding-right: 50px;
+
+}
+.line34{
+    float: left;
+    position: relative;
+    padding-left: 230px;
+    
+}
+.line34 img{
+    position: absolute;
+    object-fit: cover;
+    top:0;
+    left: 0;
+    width: 320px;
+    height: 300px;
+    padding-left: 200px;
+}
+
+.section2{
+    background-color: black;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.line35{
+    color:white;
+    float: left;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    width: 400px;
+    padding-left: 180px;
+    padding-right: 100px;
+    width:400px;
+    padding-top: 50px;
+    padding-bottom:0px;
+}
+.line36 img{
+    float:left;
+    width: 320px;
+    height: 300px;
+    padding-left: 200px;
+}
